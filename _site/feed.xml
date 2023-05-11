@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2023-05-10T23:00:41-04:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Chris Demeropolis</title>
+  
+
+  
+    <subtitle>Chris Demeropolis likes writing stories about subjects that entertain and amuse her children. With an interest in writing since she could pick up a pen, she earned a bachelor&apos;s degree in Journalism from Ohio University.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">calendar events</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="calendar events" />
+      <published>2023-05-06T00:00:00-04:00</published>
+      <updated>2023-05-06T00:00:00-04:00</updated>
+      <id>http://localhost:4000/calendar-events</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">books for sale</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="books for sale" />
+      <published>2023-05-06T00:00:00-04:00</published>
+      <updated>2023-05-06T00:00:00-04:00</updated>
+      <id>http://localhost:4000/books-for-sale</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">author inspiration</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="author inspiration" />
+      <published>2023-05-06T00:00:00-04:00</published>
+      <updated>2023-05-06T00:00:00-04:00</updated>
+      <id>http://localhost:4000/author-inspiration</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
