@@ -1,6 +1,6 @@
 ---
 layout: default
-title: books for sale - coming in 2025
+title: books for sale<br/>coming in 2025
 modal-id: 2
 img: bookforsale.png
 secondary: bell_guru.png
